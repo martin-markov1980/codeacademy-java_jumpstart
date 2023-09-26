@@ -15,7 +15,6 @@ public class AbsoluteValue {
         int numberThreeAbsoluteValue = Math.abs(numberThree);
         int numberFourAbsoluteValue = Math.abs(numberFour);
 
-
         System.out.println(numberOneAbsoluteValue + "\t" + numberTwoAbsoluteValue + "\t" + numberThreeAbsoluteValue + "\t" + numberFourAbsoluteValue);
 
     }
