@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /*
- *   Square root of a given number to the fifth digit
+ *   Square root of a given number to the fifth digit after decimal
  */
 public class SquareRoot {
     public static void main(String[] args) {
