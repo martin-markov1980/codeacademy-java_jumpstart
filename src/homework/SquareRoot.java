@@ -16,6 +16,7 @@ public class SquareRoot {
 
         userInputNumber = scanner.nextDouble();
 
+        // Creating format to remove unnecessary zeros at the end of the user input
         DecimalFormat format = new DecimalFormat("0.######");
 
         outputNumberResult = Math.sqrt(userInputNumber);
