@@ -13,6 +13,7 @@ public class SquareRoot {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Please, enter a number below:");
+
         userInputNumber = scanner.nextDouble();
 
         DecimalFormat format = new DecimalFormat("0.######");
@@ -20,6 +21,5 @@ public class SquareRoot {
         outputNumberResult = Math.sqrt(userInputNumber);
 
         System.out.printf("The square root number of " + format.format(userInputNumber) + " is: %,.5f", outputNumberResult);
-
     }
 }
