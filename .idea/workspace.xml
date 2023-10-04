@@ -36,7 +36,20 @@
     "git-widget-placeholder": "homework-7"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EvenOrOdd">
+    <configuration name="EvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.EvenOrOdd" />
+      <module name="exercise-7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.SpringSeason" />
       <module name="exercise-7" />
@@ -52,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EvenOrOdd" />
         <item itemvalue="Application.SpringSeason" />
       </list>
     </recent_temporary>

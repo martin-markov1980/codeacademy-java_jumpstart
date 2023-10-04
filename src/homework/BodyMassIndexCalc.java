@@ -48,5 +48,7 @@ public class BodyMassIndexCalc {
         }   else {
             System.out.println("You are Obese.");
         }
+
+        scanner.close();
     }
 }

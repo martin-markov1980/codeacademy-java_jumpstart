@@ -26,5 +26,6 @@ public class SpringSeason {
             System.out.println("Your date is not in the Spring Season");
         }
 
+        scanner.close();
     }
 }
