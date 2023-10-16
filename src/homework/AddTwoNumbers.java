@@ -37,6 +37,7 @@ public class AddTwoNumbers {
                 userAnswer = scanner.next();
             } while (userAnswer.equalsIgnoreCase("Yes"));
         }
+
         if (userAnswer.equalsIgnoreCase("No")) {
             System.out.println("You enter \"No\", see you soon then!");
         } else {
